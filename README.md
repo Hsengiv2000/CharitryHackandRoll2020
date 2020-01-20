@@ -1,6 +1,6 @@
 # CharitryHackandRoll2020
 
-Productivity application for Android smartphones that donates money to charity everytime you do unfocus. 
+Productivity application for Android smartphones that donates money to charity everytime you unfocus. 
 STEPS TO USE:
 1) Open the app
 2) Add banking details
